@@ -39,6 +39,7 @@ After you do this, you should have a new folder in QMIND named QMIND-Kaggle-Tita
 2. Navigate to your QMIND folder using the `cd FOLDERNAME` command. To see what folders are in your current directory, you can enter `ls`. For example, my terminal starts in the folder named 'johngao'. If I want to get to johngao/work/QMIND, then I just have to type `cd johngao/work/QMIND`.
 3. Once you're in your QMIND folder, type:  
 `git clone https://github.com/johngao2/QMIND-Kaggle-Titanic.git`  
+4. Follow steps 6-11 on the Windows instructions.
 
 
 ## Installing anaconda
