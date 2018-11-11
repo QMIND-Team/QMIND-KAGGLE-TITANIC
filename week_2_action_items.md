@@ -10,7 +10,7 @@ Observe your local validation score, and the actual test set score from kaggle. 
 * Engineer a new feature column called "age_binned". In this feature, bin the age feature into 5 buckets: age <= 16, 16 < age <= 32, 32 < age <= 48, 48 < age <= 65, 64 < age. 
 * Make a new feature called "family_size, which is the sum of sibsp+parch
 * Make a new feature called "is_alone", which is 1 if sibsp+parch=0, and 0 otherwise. 
-* Use a label encoder on embarked column to change the values from letters to numbers ("S"->0, "C"->1, "Q"->2,as an example mapping). Use this mapping to overwrite the current "embarked column".
+* Use the **sklearn** label encoder on embarked column to change the values from letters to numbers ("S"->0, "C"->1, "Q"->2,as an example mapping). Use this mapping to overwrite the current "embarked column".
 * Drop all the columns except for Survived, pclass, sex, age_binned, fam_size, is_alone, embarked. Use these all as features, except Survived which is the target.
 * One-hot encode both datasets for all variables except for fam_size.
 
