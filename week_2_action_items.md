@@ -1,7 +1,7 @@
 Hey guys! Here's what I need you all to do this week. Since the project isn't parallizable yet, you'll all be doing the same tasks, so try not to collaborate with others while doing these tasks. Learning via google, stackexchange, and package documentation is a vital part of winning kaggle. 
 
 **1. Run the pipeline and make your first submission.**  
-Observe your local validation score, and the actual test set score from kaggle. Our team only gets 5 submissions per day so please don't spam submission files. However, it's important nonetheless to actually do it at least once. Note the validation accuracy, write it down somewhere.
+Observe your local validation score, and the actual test set score from kaggle. Our team only gets 10 submissions per day so please don't spam submission files. However, it's important nonetheless to actually do it at least once. Note the validation accuracy, write it down somewhere.
 
 **2. I'll need you all to do the following cleaning tasks to both the training and test sets:**
 * Embarked has 2 missing values. Fill them with "S", since "S" is the most common.
