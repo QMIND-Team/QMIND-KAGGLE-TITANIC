@@ -10,13 +10,5 @@ This is the primary repository for QMIND Kaggle team's warm-up project.
 | Week 3 baseline                        | 0.80446  | 0.78947         | 33%               |
 | NA age filled (Kaelan)                 | 0.83240  | 0.78947         | 33%               |
 | Best individual sklearn model (Tania)  |          |                 |                   |
-| LightGBM (Mitch)                       |          |                 |                   |
-| NN (Max)                               |          |                 |                   |
-
-
-Week 3 experiment roster:
-* Filling in mean age using title: Kaelan
-  - Haven't been able to change the ages yet, which is frustrating me. Titles are all separated though, which improved the validation set score but didn't change the score in the submission.
-* Try various sklearn models: Tania
-* Try lightgbm: Mitch
-* Try NN: Max
+| Basic LightGBM (Mitch)                 |          |                 |                   |
+| Basic NN (Max)                         |          |                 |                   |
