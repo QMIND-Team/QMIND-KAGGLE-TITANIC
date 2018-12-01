@@ -9,6 +9,3 @@ This is the primary repository for QMIND Kaggle team's warm-up project.
 | After week 2 tasks (Everyone else, RF) | 0.81564  | 0.77990         | 40%               |
 | Week 3 baseline                        | 0.80446  | 0.78947         | 33%               |
 | NA age filled (Kaelan)                 | 0.81005  | 0.79425         | 24%               |
-| Best individual sklearn model (Tania)  |          |                 |                   |
-| Basic LightGBM (Mitch)                 |          |                 |                   |
-| Basic NN (Max)                         |          |                 |                   |
